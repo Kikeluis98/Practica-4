@@ -131,15 +131,15 @@ v. Permanece constante.
 
 - *(b) Argumenta que en esta configuración, las estimaciones del coeficiente de ridge satisfacen B1gorrito = B2gorrito*
 
-**Rspuesta:** ![5b](http://localhost:8888/files/Documents/AUniversidad/UNAM/Sexto%20Semestre/Temas%20de%20compu/Tareas/Pr%C3%A1ctica%204/5b.jpeg?_xsrf=2%7Ca25add10%7Cdbbe189ee3c1030fdf2e0bddaf5bb1a2%7C1588615774)
+**Rspuesta:** ![jpeg](5b.jpeg)
 
 - *(c) Escriba el priblema de optimización de lazo en esta configuración*
 
-**Rspuesta:** ![5c](http://localhost:8888/files/Documents/AUniversidad/UNAM/Sexto%20Semestre/Temas%20de%20compu/Tareas/Pr%C3%A1ctica%204/5c.jpeg?_xsrf=2%7Ca25add10%7Cdbbe189ee3c1030fdf2e0bddaf5bb1a2%7C1588615774)
+**Rspuesta:** ![jpeg](5c.jpeg)
 
 - *(d) Argumenta que en este contexto, los coeficientes de lazo B1gorrito y B2gorrito no son unicos;enotras palabras, hay muchas posibles soluciones al problema de optimización en (c). Describe estas soluciones.*
 
-**Rspuesta:** ![5d](http://localhost:8888/files/Documents/AUniversidad/UNAM/Sexto%20Semestre/Temas%20de%20compu/Tareas/Pr%C3%A1ctica%204/5d.jpeg?_xsrf=2%7Ca25add10%7Cdbbe189ee3c1030fdf2e0bddaf5bb1a2%7C1588615774)
+**Rspuesta:** ![jpeg](5d.jpeg)
 
 **6. Ahora exploraremos (6.12) y (6.13) más a fondo.**
 
@@ -185,23 +185,23 @@ points(est.beta, est.func, col = "red", pch = 4, lwd = 5, cex = est.beta)
 
    - *(a) Escriba la probabilidad de los datos.* 
 
-**Rspuesta:** ![7a](http://localhost:8888/files/Documents/AUniversidad/UNAM/Sexto%20Semestre/Temas%20de%20compu/Tareas/Pr%C3%A1ctica%204/7a.jpeg?_xsrf=2%7Ca25add10%7Cdbbe189ee3c1030fdf2e0bddaf5bb1a2%7C1588615774)
+**Rspuesta:** ![jpeg](7a.jpeg)
 
    - *(b) Escriba β en este ajuste.* 
 
-**Rspuesta:** ![7b](http://localhost:8888/files/Documents/AUniversidad/UNAM/Sexto%20Semestre/Temas%20de%20compu/Tareas/Pr%C3%A1ctica%204/7b.jpeg?_xsrf=2%7Ca25add10%7Cdbbe189ee3c1030fdf2e0bddaf5bb1a2%7C1588615774)
+**Rspuesta:** ![jpeg](7b.jpeg)
 
    - *(c) Argumenta que la estimación del lazo es el modo para β bajo esta distribución posterior.* 
 
-**Rspuesta:** ![7c](http://localhost:8888/files/Documents/AUniversidad/UNAM/Sexto%20Semestre/Temas%20de%20compu/Tareas/Pr%C3%A1ctica%204/7c.jpeg?_xsrf=2%7Ca25add10%7Cdbbe189ee3c1030fdf2e0bddaf5bb1a2%7C1588615774)
+**Rspuesta:** ![jpeg](7c.jpeg)
 
    - *(d) Ahora suponga lo siguiente para β: β1,. . . , βp son independientes y distribuido idénticamente de acuerdo con una distribución normal con media cero y varianza c. Escriba la parte posterior para β en esta configuración.* 
 
-**Rspuesta:** ![7d](http://localhost:8888/files/Documents/AUniversidad/UNAM/Sexto%20Semestre/Temas%20de%20compu/Tareas/Pr%C3%A1ctica%204/7d.jpeg?_xsrf=2%7Ca25add10%7Cdbbe189ee3c1030fdf2e0bddaf5bb1a2%7C1588615774)
+**Rspuesta:** ![jpeg](7d.jpeg)
 
    - *(e) Argumenta que la estimación de la regresión de la cresta es tanto el modo como la media de β bajo esta distribución posterior.*
 
-**Rspuesta:** ![7e](http://localhost:8888/files/Documents/AUniversidad/UNAM/Sexto%20Semestre/Temas%20de%20compu/Tareas/Pr%C3%A1ctica%204/7e.jpeg?_xsrf=2%7Ca25add10%7Cdbbe189ee3c1030fdf2e0bddaf5bb1a2%7C1588615774)
+**Rspuesta:** ![jpeg](7e.jpeg)
 
 **8. En este ejercicio, generaremos datos simulados y luego utilizaremos estos datos para realizar la mejor selección de subconjunto.**
 
