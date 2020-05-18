@@ -127,7 +127,7 @@ v. Permanece constante.
 
 - *(a) Escriba el problema de optimización de regresión de crestas en esta configuración*
 
-**Rspuesta:** ![5a](http://localhost:8888/files/Documents/AUniversidad/UNAM/Sexto%20Semestre/Temas%20de%20compu/Tareas/Pr%C3%A1ctica%204/5a.jpeg?_xsrf=2%7Ca25add10%7Cdbbe189ee3c1030fdf2e0bddaf5bb1a2%7C1588615774)
+**Rspuesta:** ![jpg](5a.jpg)![5a]
 
 - *(b) Argumenta que en esta configuración, las estimaciones del coeficiente de ridge satisfacen B1gorrito = B2gorrito*
 
